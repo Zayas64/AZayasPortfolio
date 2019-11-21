@@ -1,0 +1,20 @@
+h1{
+    color: #940000;
+    font-family: Helvetica, sans-serif;
+}
+body{
+    background-color: darkkhaki;
+}
+p{
+    font-family: Helvetica, sans-serif;
+    border-color: #7e7742
+}
+a {
+    color: khaki;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+}
+a:hover {color: #7e7742;}
+section#banner{
+    background: #93c3e2
+}
